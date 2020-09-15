@@ -1,3 +1,5 @@
+//(https://codeforces.com/contest/16/problem/E)
+
 #include <bits/stdc++.h>
 using namespace std;
 double prob[20][20];
